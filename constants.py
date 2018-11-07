@@ -1,0 +1,3 @@
+WECHAT_TOKEN = 'jiqianwlgongzhonghao'
+WECHAT_APPID = 'wx19f5c1f707b05d87'
+WECHAT_APPSECRET = '8db8ed03c6a02d32bf9194bb821a604a'
